@@ -1,0 +1,214 @@
+Afghanistan                                        WB_LI   11 Eastern Mediterranean     1980
+Afghanistan                                        WB_LI    0 Eastern Mediterranean     1981
+Afghanistan                                        WB_LI    8 Eastern Mediterranean     1982
+Afghanistan                                        WB_LI    9 Eastern Mediterranean     1983
+Afghanistan                                        WB_LI   14 Eastern Mediterranean     1984
+Afghanistan                                        WB_LI   14 Eastern Mediterranean     1985
+Afghanistan                                        WB_LI   14 Eastern Mediterranean     1986
+Afghanistan                                        WB_LI   31 Eastern Mediterranean     1987
+Afghanistan                                        WB_LI   34 Eastern Mediterranean     1988
+Afghanistan                                        WB_LI   22 Eastern Mediterranean     1989
+Afghanistan                                        WB_LI   20 Eastern Mediterranean     1990
+Afghanistan                                        WB_LI   19 Eastern Mediterranean     1991
+Afghanistan                                        WB_LI   22 Eastern Mediterranean     1992
+Afghanistan                                        WB_LI   25 Eastern Mediterranean     1993
+Afghanistan                                        WB_LI   40 Eastern Mediterranean     1994
+Afghanistan                                        WB_LI   41 Eastern Mediterranean     1995
+Afghanistan                                        WB_LI   42 Eastern Mediterranean     1996
+Afghanistan                                        WB_LI   38 Eastern Mediterranean     1997
+Afghanistan                                        WB_LI   31 Eastern Mediterranean     1998
+Afghanistan                                        WB_LI   31 Eastern Mediterranean     1999
+Afghanistan                                        WB_LI   27 Eastern Mediterranean     2000
+Afghanistan                                        WB_LI   37 Eastern Mediterranean     2001
+Afghanistan                                        WB_LI   35 Eastern Mediterranean     2002
+Afghanistan                                        WB_LI   39 Eastern Mediterranean     2003
+Afghanistan                                        WB_LI   48 Eastern Mediterranean     2004
+Afghanistan                                        WB_LI   50 Eastern Mediterranean     2005
+Afghanistan                                        WB_LI   53 Eastern Mediterranean     2006
+Afghanistan                                        WB_LI   55 Eastern Mediterranean     2007
+Afghanistan                                        WB_LI   59 Eastern Mediterranean     2008
+Afghanistan                                        WB_LI   60 Eastern Mediterranean     2009
+Afghanistan                                        WB_LI   62 Eastern Mediterranean     2010
+Afghanistan                                        WB_LI   65 Eastern Mediterranean     2011
+Afghanistan                                        WB_LI   68 Eastern Mediterranean     2012
+Albania                                            WB_LMI  90 Europe                    1980
+Albania                                            WB_LMI  90 Europe                    1981
+Albania                                            WB_LMI  93 Europe                    1982
+Albania                                            WB_LMI  96 Europe                    1983
+Albania                                            WB_LMI  96 Europe                    1984
+Albania                                            WB_LMI  96 Europe                    1985
+Albania                                            WB_LMI  96 Europe                    1986
+Albania                                            WB_LMI  96 Europe                    1987
+Albania                                            WB_LMI  96 Europe                    1988
+Albania                                            WB_LMI  96 Europe                    1989
+Albania                                            WB_LMI  88 Europe                    1990
+Albania                                            WB_LMI  80 Europe                    1991
+Albania                                            WB_LMI  87 Europe                    1992
+Albania                                            WB_LMI  76 Europe                    1993
+Albania                                            WB_LMI  90 Europe                    1994
+Albania                                            WB_LMI  91 Europe                    1995
+Albania                                            WB_LMI  92 Europe                    1996
+Albania                                            WB_LMI  95 Europe                    1997
+Albania                                            WB_LMI  89 Europe                    1998
+Albania                                            WB_LMI  85 Europe                    1999
+Albania                                            WB_LMI  95 Europe                    2000
+Albania                                            WB_LMI  95 Europe                    2001
+Albania                                            WB_LMI  96 Europe                    2002
+Albania                                            WB_LMI  93 Europe                    2003
+Albania                                            WB_LMI  96 Europe                    2004
+Albania                                            WB_LMI  97 Europe                    2005
+Albania                                            WB_LMI  95 Europe                    2006
+Albania                                            WB_LMI  97 Europe                    2007
+Albania                                            WB_LMI  98 Europe                    2008
+Albania                                            WB_LMI  97 Europe                    2009
+Albania                                            WB_LMI  99 Europe                    2010
+Albania                                            WB_LMI  99 Europe                    2011
+Albania                                            WB_LMI  99 Europe                    2012
+Algeria                                            WB_UMI   0 Africa                    1980
+Algeria                                            WB_UMI   0 Africa                    1981
+Algeria                                            WB_UMI   0 Africa                    1982
+Algeria                                            WB_UMI   0 Africa                    1983
+Algeria                                            WB_UMI   0 Africa                    1984
+Algeria                                            WB_UMI  68 Africa                    1985
+Algeria                                            WB_UMI  67 Africa                    1986
+Algeria                                            WB_UMI  73 Africa                    1987
+Algeria                                            WB_UMI  81 Africa                    1988
+Algeria                                            WB_UMI  82 Africa                    1989
+Algeria                                            WB_UMI  83 Africa                    1990
+Algeria                                            WB_UMI  85 Africa                    1991
+Algeria                                            WB_UMI  86 Africa                    1992
+Algeria                                            WB_UMI  87 Africa                    1993
+Algeria                                            WB_UMI  88 Africa                    1994
+Algeria                                            WB_UMI  89 Africa                    1995
+Algeria                                            WB_UMI  90 Africa                    1996
+Algeria                                            WB_UMI  92 Africa                    1997
+Algeria                                            WB_UMI  84 Africa                    1998
+Algeria                                            WB_UMI  83 Africa                    1999
+Algeria                                            WB_UMI  80 Africa                    2000
+Algeria                                            WB_UMI  83 Africa                    2001
+Algeria                                            WB_UMI  81 Africa                    2002
+Algeria                                            WB_UMI  84 Africa                    2003
+Algeria                                            WB_UMI  81 Africa                    2004
+Algeria                                            WB_UMI  83 Africa                    2005
+Algeria                                            WB_UMI  91 Africa                    2006
+Algeria                                            WB_UMI  92 Africa                    2007
+Algeria                                            WB_UMI  88 Africa                    2008
+Algeria                                            WB_UMI  92 Africa                    2009
+Algeria                                            WB_UMI  95 Africa                    2010
+Algeria                                            WB_UMI  95 Africa                    2011
+Algeria                                            WB_UMI  95 Africa                    2012
+Andorra                                            WB_HI   90 Europe                    1997
+Andorra                                            WB_HI   90 Europe                    1998
+Andorra                                            WB_HI   97 Europe                    1999
+Andorra                                            WB_HI   97 Europe                    2000
+Andorra                                            WB_HI   97 Europe                    2001
+Andorra                                            WB_HI   98 Europe                    2002
+Andorra                                            WB_HI   96 Europe                    2003
+Andorra                                            WB_HI   98 Europe                    2004
+Andorra                                            WB_HI   94 Europe                    2005
+Andorra                                            WB_HI   91 Europe                    2006
+Andorra                                            WB_HI   94 Europe                    2007
+Andorra                                            WB_HI   98 Europe                    2008
+Andorra                                            WB_HI   98 Europe                    2009
+Andorra                                            WB_HI   99 Europe                    2010
+Andorra                                            WB_HI   99 Europe                    2011
+Andorra                                            WB_HI   98 Europe                    2012
+Australia                                          WB_HI    0 Western Pacific           1980
+Australia                                          WB_HI    0 Western Pacific           1981
+Australia                                          WB_HI    0 Western Pacific           1982
+Australia                                          WB_HI   68 Western Pacific           1983
+Australia                                          WB_HI   68 Western Pacific           1984
+Australia                                          WB_HI   68 Western Pacific           1985
+Australia                                          WB_HI   68 Western Pacific           1986
+Australia                                          WB_HI   68 Western Pacific           1987
+Australia                                          WB_HI   77 Western Pacific           1988
+Australia                                          WB_HI   85 Western Pacific           1989
+Australia                                          WB_HI   86 Western Pacific           1990
+Australia                                          WB_HI   86 Western Pacific           1991
+Australia                                          WB_HI   86 Western Pacific           1992
+Australia                                          WB_HI   86 Western Pacific           1993
+Australia                                          WB_HI   86 Western Pacific           1994
+Australia                                          WB_HI   87 Western Pacific           1995
+Australia                                          WB_HI   87 Western Pacific           1996
+Australia                                          WB_HI   85 Western Pacific           1997
+Australia                                          WB_HI   82 Western Pacific           1998
+Australia                                          WB_HI   88 Western Pacific           1999
+Australia                                          WB_HI   91 Western Pacific           2000
+Australia                                          WB_HI   92 Western Pacific           2001
+Australia                                          WB_HI   93 Western Pacific           2002
+Australia                                          WB_HI   94 Western Pacific           2003
+Australia                                          WB_HI   93 Western Pacific           2004
+Australia                                          WB_HI   94 Western Pacific           2005
+Australia                                          WB_HI   94 Western Pacific           2006
+Australia                                          WB_HI   94 Western Pacific           2007
+Australia                                          WB_HI   94 Western Pacific           2008
+Australia                                          WB_HI   94 Western Pacific           2009
+Australia                                          WB_HI   94 Western Pacific           2010
+Australia                                          WB_HI   94 Western Pacific           2011
+Australia                                          WB_HI   94 Western Pacific           2012
+Zambia                                             WB_LI    0 Africa                    1980
+Zambia                                             WB_LI    0 Africa                    1981
+Zambia                                             WB_LI    0 Africa                    1982
+Zambia                                             WB_LI   56 Africa                    1983
+Zambia                                             WB_LI   57 Africa                    1984
+Zambia                                             WB_LI   58 Africa                    1985
+Zambia                                             WB_LI   58 Africa                    1986
+Zambia                                             WB_LI   80 Africa                    1987
+Zambia                                             WB_LI   80 Africa                    1988
+Zambia                                             WB_LI   80 Africa                    1989
+Zambia                                             WB_LI   90 Africa                    1990
+Zambia                                             WB_LI   80 Africa                    1991
+Zambia                                             WB_LI   85 Africa                    1992
+Zambia                                             WB_LI   91 Africa                    1993
+Zambia                                             WB_LI   96 Africa                    1994
+Zambia                                             WB_LI   86 Africa                    1995
+Zambia                                             WB_LI   86 Africa                    1996
+Zambia                                             WB_LI   86 Africa                    1997
+Zambia                                             WB_LI   86 Africa                    1998
+Zambia                                             WB_LI   85 Africa                    1999
+Zambia                                             WB_LI   85 Africa                    2000
+Zambia                                             WB_LI   84 Africa                    2001
+Zambia                                             WB_LI   84 Africa                    2002
+Zambia                                             WB_LI   84 Africa                    2003
+Zambia                                             WB_LI   85 Africa                    2004
+Zambia                                             WB_LI   85 Africa                    2005
+Zambia                                             WB_LI   85 Africa                    2006
+Zambia                                             WB_LI   93 Africa                    2007
+Zambia                                             WB_LI   87 Africa                    2008
+Zambia                                             WB_LI   90 Africa                    2009
+Zambia                                             WB_LI   96 Africa                    2010
+Zambia                                             WB_LI   83 Africa                    2011
+Zambia                                             WB_LI   83 Africa                    2012
+Zimbabwe                                           WB_LI    0 Africa                    1980
+Zimbabwe                                           WB_LI   56 Africa                    1981
+Zimbabwe                                           WB_LI   58 Africa                    1982
+Zimbabwe                                           WB_LI   60 Africa                    1983
+Zimbabwe                                           WB_LI   62 Africa                    1984
+Zimbabwe                                           WB_LI   78 Africa                    1985
+Zimbabwe                                           WB_LI   83 Africa                    1986
+Zimbabwe                                           WB_LI   88 Africa                    1987
+Zimbabwe                                           WB_LI   88 Africa                    1988
+Zimbabwe                                           WB_LI   87 Africa                    1989
+Zimbabwe                                           WB_LI   87 Africa                    1990
+Zimbabwe                                           WB_LI   87 Africa                    1991
+Zimbabwe                                           WB_LI   86 Africa                    1992
+Zimbabwe                                           WB_LI   86 Africa                    1993
+Zimbabwe                                           WB_LI   87 Africa                    1994
+Zimbabwe                                           WB_LI   87 Africa                    1995
+Zimbabwe                                           WB_LI   88 Africa                    1996
+Zimbabwe                                           WB_LI   84 Africa                    1997
+Zimbabwe                                           WB_LI   79 Africa                    1998
+Zimbabwe                                           WB_LI   77 Africa                    1999
+Zimbabwe                                           WB_LI   75 Africa                    2000
+Zimbabwe                                           WB_LI   73 Africa                    2001
+Zimbabwe                                           WB_LI   70 Africa                    2002
+Zimbabwe                                           WB_LI   68 Africa                    2003
+Zimbabwe                                           WB_LI   66 Africa                    2004
+Zimbabwe                                           WB_LI   67 Africa                    2005
+Zimbabwe                                           WB_LI   68 Africa                    2006
+Zimbabwe                                           WB_LI   69 Africa                    2007
+Zimbabwe                                           WB_LI   70 Africa                    2008
+Zimbabwe                                           WB_LI   76 Africa                    2009
+Zimbabwe                                           WB_LI   90 Africa                    2010
+Zimbabwe                                           WB_LI   90 Africa                    2011
+Zimbabwe                                           WB_LI   90 Africa                    2012
